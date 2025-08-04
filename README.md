@@ -5,7 +5,7 @@ This is a lightweight, optimized script for FiveM that introduces a highly confi
 ## Requirements!
 - **ox_lib** (Required)
 - **ESX**, **QBCORE**, or **Standalone** Framework
-- **lofi_discord** (Optional - for Discord role verification)
+- **lofi_discord** (for Discord role verification)
 
 ## Features
 - **Discord Integration**: Automatic VIP role verification with configurable role IDs
