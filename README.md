@@ -109,6 +109,7 @@ local displayName = exports['lofi_vip']:getDisplayName(playerId)
 
 ## Contributing
 Contributions are welcome! Please submit pull requests or issues if you find bugs or have suggestions for improvement.
+used similar vip system logic from https://discord.gg/trasedev to make this system possible :)
 
 ## Support
 For support and updates, please check the repository or contact the development team.
